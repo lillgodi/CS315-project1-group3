@@ -5,12 +5,16 @@ By: Adelle, Amy, Brooke, Lillie, Rachel, Soo
 
 ## file: PageTikTok.py
 Main code?
+
 ##file: test_active.py
 Function that was called for all active experiments (liked videos based on hashtags defined in main code)
+
 ##file: test_control.py
 Function that was called for all control experiments
+
 ##file: proj1_analysis.ipynb
 Common file that contains all the code used for data analysis—parsing and graphing data.
+
 ## folder: Data
 Contains all the data that was collected over the course of this experiment
 Some naming conventions taken:
