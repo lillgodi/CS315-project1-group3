@@ -1,4 +1,4 @@
-#CS 315, Project 1, S1-Group 3 
+# CS 315, Project 1, S1-Group 3 
 CS315 project analyzing the effect of liking a video on Tiktok on the testing recommendation algorithm.
 
 By: Adelle, Amy, Brooke, Lillie, Rachel, Soo
