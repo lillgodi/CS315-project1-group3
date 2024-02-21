@@ -4,7 +4,7 @@ CS315 project analyzing the effect of liking a video on Tiktok on the testing re
 By: Adelle, Amy, Brooke, Lillie, Rachel, Soo
 
 ## file: PageTikTok.py
-Main code?
+Data collection script with hashtag specifications for personas and liking paradigms for control and active conditions
 
 ## file: test_active.py
 Function that was called for all active experiments (liked videos based on hashtags defined in main code)
