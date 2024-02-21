@@ -6,13 +6,13 @@ By: Adelle, Amy, Brooke, Lillie, Rachel, Soo
 ## file: PageTikTok.py
 Main code?
 
-##file: test_active.py
+## file: test_active.py
 Function that was called for all active experiments (liked videos based on hashtags defined in main code)
 
-##file: test_control.py
+## file: test_control.py
 Function that was called for all control experiments
 
-##file: proj1_analysis.ipynb
+## file: proj1_analysis.ipynb
 Common file that contains all the code used for data analysis—parsing and graphing data.
 
 ## folder: Data
@@ -36,5 +36,5 @@ Some naming conventions taken:
     - liked videos (videos that were liked)
     - all videos (data that was scrolled through)
     
-##folder: data_individual
+## folder: data_individual
 Contains the data for each individual in subfolders.
